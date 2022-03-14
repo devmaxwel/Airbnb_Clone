@@ -39,9 +39,9 @@
     padding: 10px 10px;
     background: #fff;
     color: #ED565B;
-    font-weight: 600;
-    font-size: 25px;
+    font-size: 15px;
     margin: 10px;
+    border-radius: 50%;
 }
 
 .footer_socials > i:hover{
