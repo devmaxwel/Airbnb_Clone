@@ -1,0 +1,58 @@
+.date{
+    top: 135px;
+    left: 25%;
+    position: absolute;
+    z-index: 999;
+    background: #fff;
+}
+
+.date_background{
+    background: #fff;
+    z-index: 999;
+}
+
+.date_background h2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 559px;
+    padding: 10px;
+    background: #fff;
+    z-index: 999;
+    left: 0;
+    top: 380px;
+}
+
+.date_background  input{
+    width: 199px;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    top: 420px;
+    border: 2px solid #ED565B;
+    border-radius: 20px;
+}
+
+.date_background input:focus{
+    outline-width: 1;
+}
+
+.date_background button{
+    position: absolute;
+    left: 0;
+    top: 480px;
+    text-transform: inherit;
+    background:#ED565B;
+    color: #fff;
+    width:579px;
+    font-weight: 900;
+
+}
+
+.date_background button:hover{
+  
+    background:#000;
+    color: #fff;
+ 
+
+}
